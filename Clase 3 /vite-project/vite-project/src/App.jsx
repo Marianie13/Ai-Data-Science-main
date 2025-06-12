@@ -1,9 +1,8 @@
 import './App.css'
 
 function App() {
- 
   return (
-       <main className="h-screen w-full bg-gray-950 flex flex-col justify-center items-center gap-4">
+    <main className="h-screen w-full bg-gray-950 flex flex-col justify-center items-center gap-4">
       <h1 className="text-5xl font-bold text-white">
         React + Vite + Tailwind CSS
       </h1>
